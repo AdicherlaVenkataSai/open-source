@@ -4,7 +4,7 @@
 
 **Want to try**
 -  Clone the repository `git clone https://github.com/AdicherlaVenkataSai/Open-contributions.git`
--  Get into the directory where the code is available. `cd VenkataSai_OpenCV/"1. Face Detection"`
+-  Get into the directory where the code is available. `cd "1. Face Detection"`
 -  Now your at the location, run the program `python main.py`
 -  You can find output like `Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)`
 -  Copy paste the link over the browser and hit run.  Cheers!!! 
